@@ -1,3 +1,3 @@
-##  Day1.6
+##  Day1.6 (*)
 
-This is a new Markdown slide
+3rd Party scripts

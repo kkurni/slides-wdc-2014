@@ -1,3 +1,3 @@
-##  Day1.7
+##  Day1.7 (*)
 
-This is a new Markdown slide
+Readable code
