@@ -1,10 +1,4 @@
 
-# Reveal.js and Yeoman is Awesomeness
+##  WDC 2014 Summary
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+This is a new Markdown slide
