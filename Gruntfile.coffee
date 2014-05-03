@@ -2,13 +2,12 @@
 module.exports = (grunt) ->
 
     grunt.initConfig
-
-        'gh-pages': 
-            options: 
-                    base: 'dist'
-                src: ['**']
         
      
+        'gh-pages':
+            options:
+                base:'dist'
+            src:['**']
   
         watch:
 
@@ -94,6 +93,7 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
 
 
     # Load all grunt tasks.
