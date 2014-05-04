@@ -1,3 +1,3 @@
 ##  Day2.3
 
-This is a new Markdown slide
+ES6 Data structures
